@@ -22,5 +22,8 @@
   "homepage": "https://github.com/notabu/frontend-project-lvl1#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^7.20.0"
   }
 }
