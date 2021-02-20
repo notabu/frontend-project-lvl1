@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Eslint checker
+        name: Eslint checker
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
