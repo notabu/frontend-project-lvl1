@@ -11,4 +11,5 @@ jobs:
       - name: Eslint checker
         with:
           node-version: ${{ matrix.node-version }}
+      - run: npm ci
       - run: npx eslint .
