@@ -1,4 +1,4 @@
-name: ESLint
+name: eslint-check
 
 on: push
 
@@ -8,7 +8,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-        name: Eslint checker
+        name: Eslint project check
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
