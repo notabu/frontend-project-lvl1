@@ -12,4 +12,4 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
-      - run: npx eslint .
+      - run: make lint
