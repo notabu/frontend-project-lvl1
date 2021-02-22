@@ -1,3 +1,5 @@
 #!/usr/bin/env node
-import playGame from '../src/games/even.js'
+// eslint-disable-next-line import/no-named-as-default,import/no-named-as-default-member
+import playGame from '../src/games/even.js';
+
 playGame();
