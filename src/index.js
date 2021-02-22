@@ -1,6 +1,6 @@
 import readlineSync from 'readline-sync';
 
-// eslint-disable-next-line import/prefer-default-export
+// eslint-disable-next-line import/prefer-default-export,consistent-return
 export const playGame = (generateRound, conditionGame) => {
   // welcome to the user
   console.log('Welcome to the Brain Games!');
