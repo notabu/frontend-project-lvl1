@@ -1,12 +1,7 @@
 #!/usr/bin/env node
 import readlineSync from 'readline-sync';
+import { getRandomNum } from '../src/rand.js';
 import { getUserName, userName } from '../src/cli.js';
-
-// function random number generator
-const getRandomNum = (min = 1, max = 10) => {
-  const rand = min + Math.random() * (max + 1 - min);
-  return Math.floor(rand);
-};
 
 // function for checking a number for parity
 const isEven = (num) => (num % 2 === 0 ? 'yes' : 'no');
