@@ -1,6 +1,6 @@
 #!/usr/bin/env node
-import getRandomNum from '../rand.js';
 import gameEngine from '../index.js';
+import getRandomNum from '../rand.js';
 
 // function for checking a number for parity
 const isEven = (num) => (num % 2 === 0);
