@@ -26,6 +26,7 @@ const generateRound = () => {
   const questionText = isRandom();
   // eslint-disable-next-line consistent-return
   const isCalc = (firstNum, secondNum, operator) => {
+    // eslint-disable-next-line default-case
     switch (operator) {
       case '+':
         return Number(firstNum) + Number(secondNum);
