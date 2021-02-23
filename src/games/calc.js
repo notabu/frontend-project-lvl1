@@ -24,13 +24,15 @@ const isRandom = () => {
 
 const generateRound = () => {
   const questionText = isRandom();
-  const isCalc = (a, b, op) => {
-    if (op === '+') {
-      return +a + +b;
-    } if (op === '-') {
-      return +a - +b;
-    } if (op === '*') {
-      return +a * +b;
+  // eslint-disable-next-line consistent-return
+  const isCalc = (firstNum, secondNum, operator) => {
+    switch (operator) {
+      case '+':
+        return Number(firstNum) + Number(secondNum);
+      case '-':
+        return Number(firstNum) - Number(secondNum);
+      case '*':
+        return Number(firstNum) * Number(secondNum);
     }
   };
 
