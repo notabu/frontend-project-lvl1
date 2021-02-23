@@ -17,14 +17,14 @@ export const playGame = (generateRound, conditionGame) => {
     console.log(`Question: ${questionText}`);
     // asking an answer
     const userAnswer = readlineSync.question('Your answer: ');
-
     if (userAnswer !== correctAnswer) {
       return console.log(`'${userAnswer}' is wrong answer ;(. Correct answer was '${correctAnswer}'.
 Let's try again, ${userName}!`);
     }
 
-    console.log(`Congratulations, ${userName}`);
+    console.log('Correct!');
   }
+  console.log(`Congratulations, ${userName}`);
 };
 
 const gameEngine = (generateRound, conditionGame) => {
