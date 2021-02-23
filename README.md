@@ -8,4 +8,7 @@
 [![Actions Status](https://github.com/notabu/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/notabu/frontend-project-lvl1/actions)
 
 ### asciinema brain-even
-https://asciinema.org/a/vQQUfbsRrqjU3VItI2U1cPdXV
+[![asciicast](https://asciinema.org/a/vQQUfbsRrqjU3VItI2U1cPdXV.svg)](https://asciinema.org/a/vQQUfbsRrqjU3VItI2U1cPdXV)
+
+### asciinema brain-calc
+[![asciicast](https://asciinema.org/a/awWK4PiXfAqZVY6X4g7M38Y9k.svg)](https://asciinema.org/a/awWK4PiXfAqZVY6X4g7M38Y9k)
