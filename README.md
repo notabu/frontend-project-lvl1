@@ -1,9 +1,12 @@
 ## asciinema game records:
 
 ### brain-even
-[![asciicast](https://asciinema.org/a/wxc113Z122DrxR76ZR1ViXF87.svg)](https://asciinema.org/a/wxc113Z122DrxR76ZR1ViXF87)
+[![asciicast](https://asciinema.org/a/2CGlHbShQDC9wKfLREcrgZmnt.svg)](https://asciinema.org/a/2CGlHbShQDC9wKfLREcrgZmnt)
 ### brain-calc
-[![asciicast](https://asciinema.org/a/osZa9szrqWhG27haaCwWwBIeZ.svg)](https://asciinema.org/a/osZa9szrqWhG27haaCwWwBIeZ)
+[![asciicast](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn.svg)](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn)
+## brain-gcd
+[![asciicast](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK.svg)](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK)
+
 
 ## Status of the test systems:
 
