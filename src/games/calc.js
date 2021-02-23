@@ -1,17 +1,17 @@
 #!/usr/bin/env node
 import gameEngine from '../index.js';
-import getRandomNum from '../rand.js';
+import { getSmallRandomNum } from '../rand.js';
 
 const getOperators = () => {
   const operators = ['+', '-', '*'];
-  const index = getRandomNum(0, 2);
+  const index = getSmallRandomNum(0, 2);
   return operators[index];
 };
 
 const getNumbers = () => {
   const numbers = [];
   for (let i = 0; i < 2; i += 1) {
-    numbers.push(getRandomNum());
+    numbers.push(getSmallRandomNum());
   }
   return numbers.sort((a, b) => b - a);
 };
