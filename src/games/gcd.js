@@ -32,6 +32,6 @@ const generateRound = () => {
 };
 
 export default () => {
-  const conditionGame = 'What is the result of the expression?';
+  const conditionGame = 'Find the greatest common divisor of given numbers.';
   gameEngine(generateRound, conditionGame);
 };
