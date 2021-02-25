@@ -1,14 +1,15 @@
 ## asciinema game records:
 
 ### brain-even
-[![asciicast](https://asciinema.org/a/2CGlHbShQDC9wKfLREcrgZmnt.svg)](https://asciinema.org/a/2CGlHbShQDC9wKfLREcrgZmnt)
+[![asciicast](https://asciinema.org/a/6UcTJr75JRCsWfLyxVoxXanaW.svg)](https://asciinema.org/a/6UcTJr75JRCsWfLyxVoxXanaW)
 ### brain-calc
-[![asciicast](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn.svg)](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn)
-## brain-gcd
-[![asciicast](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK.svg)](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK)
-## brain-progression
-[![asciicast](https://asciinema.org/a/otm2ttPwasDFXQ929sgFAntEM.svg)](https://asciinema.org/a/otm2ttPwasDFXQ929sgFAntEM)
-
+[![asciicast](https://asciinema.org/a/QE95H7Lu7Vmq7MHcnQbKUjidt.svg)](https://asciinema.org/a/QE95H7Lu7Vmq7MHcnQbKUjidt)
+### brain-gcd
+[![asciicast](https://asciinema.org/a/WwaLhUpM3Hx4I0orhlQUUDAju.svg)](https://asciinema.org/a/WwaLhUpM3Hx4I0orhlQUUDAju)
+### brain-progression
+[![asciicast](https://asciinema.org/a/oE5xAxmvDsQvBt3FfsBotsv9Q.svg)](https://asciinema.org/a/oE5xAxmvDsQvBt3FfsBotsv9Q)
+### brain-prime
+[![asciicast](https://asciinema.org/a/TJjzaLf2WkHDrj82XBcoqSrIr.svg)](https://asciinema.org/a/TJjzaLf2WkHDrj82XBcoqSrIr)
 
 ## Status of the test systems:
 
