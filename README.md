@@ -6,6 +6,8 @@
 [![asciicast](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn.svg)](https://asciinema.org/a/d0openx70kVyFIAOXh3Q4iODn)
 ## brain-gcd
 [![asciicast](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK.svg)](https://asciinema.org/a/VN746lQvWntp6TGpSnxcVtRjK)
+## brain-progression
+[![asciicast](https://asciinema.org/a/otm2ttPwasDFXQ929sgFAntEM.svg)](https://asciinema.org/a/otm2ttPwasDFXQ929sgFAntEM)
 
 
 ## Status of the test systems:
