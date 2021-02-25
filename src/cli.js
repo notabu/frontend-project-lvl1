@@ -4,5 +4,5 @@ import readlineSync from 'readline-sync';
 export let userName;
 export const getUserName = () => {
   const getName = readlineSync.question('May I have your name? ');
-  console.log(`/Hello, ${getName}/`);
+  return console.log(`/Hello, ${getName}/`);
 };
