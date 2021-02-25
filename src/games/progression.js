@@ -29,6 +29,6 @@ const generateRound = () => {
 };
 
 export default () => {
-  const conditionGame = 'What is the result of the expression?';
+  const conditionGame = 'What number is missing in the progression?';
   gameEngine(generateRound, conditionGame);
 };
