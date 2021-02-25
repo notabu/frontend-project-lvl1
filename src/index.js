@@ -24,7 +24,7 @@ Let's try again, ${userName}!`);
 
     console.log('Correct!');
   }
-  console.log('Congratulations,', userName);
+  console.log(`Congratulations, ${userName}!`);
 };
 
 const gameEngine = (generateRound, conditionGame) => {
