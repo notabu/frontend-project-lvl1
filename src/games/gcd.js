@@ -20,7 +20,7 @@ const getGCD = (firstNum, secondNum) => {
 
 const generateQuestion = () => {
   const arrayNum = getRandomNum();
-  return `${arrayNum[0]} ${arrayNum[1]}`;
+  return arrayNum.join(' ');
 };
 
 const generateRound = () => {
